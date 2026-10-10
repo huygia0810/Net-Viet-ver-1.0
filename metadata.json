@@ -1,0 +1,6 @@
+{
+  "name": "NÉT VIỆT - Việt phục Remix",
+  "description": "Mặc hiện đại, nhưng hiểu mình đang mặc gì. AI Stylist Việt phục Gen Z với hệ thống bảo vệ di sản văn hóa Heritage Guard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

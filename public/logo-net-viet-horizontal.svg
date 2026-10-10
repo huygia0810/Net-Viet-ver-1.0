@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 96" width="440" height="96" fill="none">
+  <defs>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@600&amp;family=Playfair+Display:wght@700&amp;display=swap");
+      .nv-brand-title {
+        font-family: "Playfair Display", Georgia, serif;
+        font-size: 40px;
+        font-weight: 700;
+        fill: #162432;
+        letter-spacing: 0.03em;
+      }
+      .nv-brand-sub {
+        font-family: "Be Vietnam Pro", -apple-system, sans-serif;
+        font-size: 13px;
+        font-weight: 600;
+        fill: #162432;
+        letter-spacing: 0.32em;
+      }
+    </style>
+  </defs>
+
+  <!-- Nền kem ấm theo nhận diện thương hiệu -->
+  <rect width="100%" height="100%" fill="#FAF7F2" rx="10" />
+
+  <!-- Biểu tượng chữ N cách điệu vạt lụa truyền thống -->
+  <g id="net-viet-emblem" transform="translate(18, 10)">
+    <!-- Chấm đỏ son tiết chế (tựa vầng thái dương / ấn triện son) -->
+    <circle cx="85" cy="11" r="6.2" fill="#AB3C2D" />
+
+    <!-- Dải lụa 1: Vạt ngoài mềm mại, vươn cao qua vai áo rồi lượn chéo xuống -->
+    <path 
+      d="M 14 74 C 18 56 25 34 36 21 C 45 10 56 11 62 23 C 69 36 76 60 81 74 C 84 82 89 82 92 73 C 94 63 95 44 95 26" 
+      fill="none" 
+      stroke="#162432" 
+      stroke-width="4.8" 
+      stroke-linecap="round" 
+      stroke-linejoin="round"
+    />
+
+    <!-- Dải lụa 2: Vạt trong xếp nếp song song tựa tà áo ngũ thân -->
+    <path 
+      d="M 23 76 C 27 58 33 39 42 27 C 47 19 54 20 59 31 C 64 43 68 64 73 75" 
+      fill="none" 
+      stroke="#162432" 
+      stroke-width="4.2" 
+      stroke-linecap="round" 
+      stroke-linejoin="round"
+    />
+
+    <!-- Dải lụa 3: Vạt con buông rủ thanh thoát phía dưới bên trái -->
+    <path 
+      d="M 8 68 C 11 74 15 78 18 78" 
+      fill="none" 
+      stroke="#162432" 
+      stroke-width="4.2" 
+      stroke-linecap="round" 
+    />
+  </g>
+
+  <!-- Chữ NÉT VIỆT và VIỆT PHỤC REMIX với đầy đủ dấu tiếng Việt -->
+  <g transform="translate(138, 0)">
+    <text x="0" y="52" class="nv-brand-title">NÉT VIỆT</text>
+    <text x="2" y="77" class="nv-brand-sub">VIỆT PHỤC REMIX</text>
+  </g>
+</svg>
